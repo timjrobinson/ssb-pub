@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:12
 
 MAINTAINER Michael Williams <michael.williams@enspiral.com>
 
